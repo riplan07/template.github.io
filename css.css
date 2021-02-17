@@ -64,17 +64,22 @@ img
     position:absolute;
     color: white;
     bottom: 47%;
-    left: 28%;
+    left: 20%;
     font-size: 89px; 
+}
+.google
+{
+    margin-right: 20px;
+    color: blue;
 }
 .text
 {
     position: absolute;
     bottom: 41%;
-    left: 20%;
+    left: 21%;
     color: white;
     font-weight: bold;
-    font-size: 15px;
+    font-size: 14px;
 }
 .demo
 {
