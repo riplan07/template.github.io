@@ -47,70 +47,69 @@ table {
 	border-spacing: 0;
 }
 /* ...........................reset css............ */
-.container
+/* .container
 {
- width:100%
-}
+ 
+} */
 .homepage
 {
     position:relative;
 }
 img
 {
-    width:60%;
+    width:100%;
 }
 .genter
 {
     position: absolute;
     color: white;
     bottom: 49%;
-    left: 29%;
-    font-size: 85px; 
+    font-size: 106px;
+    right: 28%;
 }
 .google
 {
     position: absolute;
-    bottom: 48%;
     color: blue;
-    font-size: 112px;
-    left: 20%;
+    font-size: 129px;
+    right: 50%;
+    bottom: 48%;
 }
 .text
 {
     position: absolute;
-    bottom: 41%;
-    left: 21%;
+    bottom: 42%;
+    left: 43%;
     color: white;
     font-weight: bold;
-    font-size: 14px;
+    font-size: 17px;
 }
 .demo
 {
     border: 1px solid green;
-    padding: 18px;
-    border-radius: 40px;
+    padding: 17px;
+    border-radius: 50%;
     background: green;
     position: absolute;
     color: white;
     top: 5%;
-    left: 45%;
+    right: 11%;
 }
 .number
 {
-    font-size: 30px;
+    font-size: 28px;
     text-align: center;
 }
 .psd
 {
     position: absolute;
-    top: 14%;
+    top: 13%;
     color: white;
-    left: 50%;
     border: 1px solid blue;
-    padding: 14px;
-    border-radius: 40px;
+    padding: 16px 10px;
+    border-radius: 50%;
     background: blue;
-
+    right: 7%;
 }
 .psd-number
 {
